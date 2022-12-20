@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGS.CRM.Plugins", "AGS.CRM.Plugins.csproj", "{4FEA342C-48AF-4AF6-A31C-CE54840ECAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEA342C-48AF-4AF6-A31C-CE54840ECAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEA342C-48AF-4AF6-A31C-CE54840ECAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEA342C-48AF-4AF6-A31C-CE54840ECAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEA342C-48AF-4AF6-A31C-CE54840ECAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB2BA7F-681A-4E6A-A865-936D81AC00FF}
+	EndGlobalSection
+EndGlobal
