@@ -10,7 +10,7 @@ namespace CRM.AGS.Plugins.Account
     using Microsoft.Xrm.Sdk.Query;
 
     /// <summary>
-    /// PostAccountUpdatePrimaryContactUpdateNotes.   
+    /// PostAccountUpdatePrimaryContactUpdateNotesl.pl,,,ok,kkoko.
     /// </summary>
     public class PostAccountUpdatePrimaryContactUpdateNotes : IPlugin
     {

@@ -98,6 +98,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Account\EnvUpdateAccount.cs" />
     <Compile Include="Account\PostAccountUpdatePrimaryContactUpdateNotes.cs" />
     <Compile Include="Account\PostOperationAccountSharedVariables.cs" />
     <Compile Include="Account\PreOperationSharedVariablesAccount.cs" />
@@ -124,6 +125,7 @@
     <Compile Include="SettlementParty\PostOperationSettlementPartyOnChangeOfDateSign.cs" />
     <Compile Include="SettlementParty\PostOperationSettlementParty_OwnerChange.cs" />
     <Compile Include="Student\PreOperationCloneContactRecord.cs" />
+    <Compile Include="WorkOrders.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
